@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# displays best  "Best School" 10 times
+
+j=0
+until (( j == 10 ))
+do
+    echo "Best School"
+    j=$(( j + 1 ))
+done
