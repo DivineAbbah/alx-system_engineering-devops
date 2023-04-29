@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Script to stop or terminate 4-to_infinity_and_beyond process.
 # without applying "kill or killall"
 
