@@ -1,4 +1,6 @@
 
+  <img src="./debugged.jpg" text-align="center">
+
 Every software system is bound to encounter failures, stemming from a wide range of factors such as bugs, traffic surges, security vulnerabilities, hardware malfunctions, natural disasters, or even human errors. It's important to understand that experiencing setbacks is a common part of software engineering, and these challenges present valuable opportunities for learning and improvement.
 
 A proficient Software Engineer learns from past mistakes to prevent their recurrence. While it's acceptable to face setbacks, encountering the same issue twice due to negligence is not.
